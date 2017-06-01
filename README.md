@@ -1,2 +1,2 @@
 # FlappyClone
-Flappy Bird Clone in Java for Android and Desktop
+Flappy Bird Clone developed using LibGDX for Android and Desktop
